@@ -1,0 +1,7 @@
+C:\Repos\POC\HelloWorld\HelloWorld\obj\Release\net6.0\PubTmp\Out\HelloWorld.exe
+C:\Repos\POC\HelloWorld\HelloWorld\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Repos\POC\HelloWorld\HelloWorld\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Repos\POC\HelloWorld\HelloWorld\obj\Release\net6.0\PubTmp\Out\HelloWorld.dll
+C:\Repos\POC\HelloWorld\HelloWorld\obj\Release\net6.0\PubTmp\Out\HelloWorld.deps.json
+C:\Repos\POC\HelloWorld\HelloWorld\obj\Release\net6.0\PubTmp\Out\HelloWorld.runtimeconfig.json
+C:\Repos\POC\HelloWorld\HelloWorld\obj\Release\net6.0\PubTmp\Out\HelloWorld.pdb
